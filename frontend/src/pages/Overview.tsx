@@ -1,4 +1,4 @@
-import { PlotCard } from "@/components/PlotCard";
+import { PlotCard } from "@/components/ui/PlotCard";
 
 export default function Overview() {
   return (
